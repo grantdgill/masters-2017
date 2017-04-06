@@ -16,7 +16,7 @@ fantasy.config = {
 		// {name: "Jim1", golfers:[1680, 388, 1293, 569, 5860]},
 		// {name: "Jim2", golfers:[1680, 5467, 308, 3702, 686]},
 		{name: "GrantG", golfers:[3448, 5467, 3470, 3702, 4848]},
-		{name: "Rich1", golfers:[3448, 3470, 308, 9870, 4848]},
+		{name: "Rich1", golfers:[3448, 3470, 308, 9780, 4848]},
 		// {name: "Rich2", golfers:[5467, 388, 5579, 257, 4848]},
 		{name: "Steve", golfers:[3448, 308, 1680, 569, 1293]},
 		{name: "JohnG", golfers:[3448, 5467, 3702, 1222, 5579]},
